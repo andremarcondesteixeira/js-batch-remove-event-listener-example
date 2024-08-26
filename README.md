@@ -1,4 +1,4 @@
 # js-batch-remove-event-listeners-example
-Example of how to batch remove event listeners in javascript
+Example of how to batch remove event listeners using Abort signals in javascript
 
 Relevant MDN documentation about using signals to remove event listeners: [https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#signal](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#signal)
